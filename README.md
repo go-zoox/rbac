@@ -97,6 +97,9 @@ Can watch pg-13? false
 Can watch r? false
 ```
 
+## Inspired by
+* [zpatrick/rbac](https://github.com/zpatrick/rbac)
+
 ## License
 This work is published under the MIT license.
 
